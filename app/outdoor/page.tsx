@@ -1,4 +1,3 @@
-"use client";
 
 import { NavbarDemo } from "@/components/navbar";
 import Image from "next/image";
