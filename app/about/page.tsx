@@ -1,4 +1,3 @@
-"use client";
 
 import { NavbarDemo } from "@/components/navbar";
 import { Button } from "@/components/ui/button";
